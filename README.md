@@ -6,6 +6,6 @@ For investors to manage their portfolios, datasets need to be understood and ana
 
 In this project, we perform stock data visualization and stock return calculation.
 
-Then there will be asset allocation and statistical data analysis
+Then, there will be asset allocation and statistical data analysis.
 
-And finally, Portfolio Optimization and Capital Asset Price Modell (CAPM)
+And finally, Portfolio Optimization and Capital Asset Price Modell (CAPM).
