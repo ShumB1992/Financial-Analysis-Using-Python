@@ -8,4 +8,4 @@ In this project, we perform stock data visualization and stock return calculatio
 
 Then, there will be asset allocation and statistical data analysis.
 
-And finally, Portfolio Optimization and Capital Asset Price Modell (CAPM).
+And finally, Portfolio Optimization and Capital Asset Price Model (CAPM).
